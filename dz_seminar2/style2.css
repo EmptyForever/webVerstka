@@ -1,0 +1,45 @@
+a {
+  text-decoration: none;
+}
+
+.referenceBlue {
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.blackBold {
+  color: #222222;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: bold;
+}
+
+.grayText {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7D7987;
+}
+
+.h2orange {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px;
+}
+
+
+body {
+  width: 700px;
+  margin: 0 auto 0 auto;
+}
+
+.wrapper .one,
+.wrapper .two,
+.wrapper .three {
+  text-align: center;
+  color: red;
+}
